@@ -17,4 +17,4 @@ spec:
             image: ariharasudhanr/registers:latest
             imagePullPolicy: Always
             ports:
-            - containerPort: 80
+            - containerPort: 80  
